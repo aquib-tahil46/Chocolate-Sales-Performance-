@@ -2,7 +2,7 @@
 
 End-to-end BI project: raw multi-file sales data → MySQL star schema → interactive Power BI dashboard.
 
-![Dashboard Overview](screenshots/dashboard_overview_png.png)
+![Dashboard Overview](screenshots/dashboard_overview.png)
 
 ## Overview
 
